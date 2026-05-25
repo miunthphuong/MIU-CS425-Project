@@ -160,7 +160,7 @@ export const reviews: Review[] = [
   },
   {
     id: '3',
-    customerName: 'Darkhanbayar Erdenebat',
+    customerName: 'Thi Phuong Nguyen',
     customerImage: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80',
     rating: 4,
     comment: 'Great selection of cars and competitive prices. The pickup was quick and hassle-free.',
